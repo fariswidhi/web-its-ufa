@@ -1,0 +1,12 @@
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/config/ApplicationConfig.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/repository/CategoryRepository.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/entity/News.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/config/SwaggerConfig.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/service/RestCategoryService.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/config/JPAConfig.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/service/RestNewsService.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/service/CategoryService.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/service/NewsService.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/entity/Category.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/repository/NewsRepository.java
+/home/smktiufa/Desktop/faris/src/main/java/org/its/smkufa/Main.java
